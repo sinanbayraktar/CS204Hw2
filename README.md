@@ -6,5 +6,7 @@ First "Linked List" homework
 
 There are used:
 
+- structs
+- pointers
+- dynamic memory allocation
 - input file reading
-- matrix manipulation (vector of vector [changable size])
